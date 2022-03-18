@@ -1,0 +1,17 @@
+.div{
+    border: 2px solid tomato;
+    padding: 20px;
+    margin: 20px;
+}
+button{
+    font-size: 20px;
+    color: white;
+    background-color: yellowgreen;
+    border: 2px solid black;
+
+}
+button:hover{
+    background-color: mediumpurple;
+    border:2px solid red;
+    color: black;
+}
